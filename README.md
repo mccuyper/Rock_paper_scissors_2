@@ -3,4 +3,4 @@
 Just Clone rep and open index.html
 
 
-![Alt Text] (New Project 3.gif)
+![Alt Text](New Project 3.gif)
